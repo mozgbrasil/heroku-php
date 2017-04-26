@@ -1,10 +1,10 @@
 {
-   "minimum-stability": "dev",
    "prefer-stable": true,
     "license": [
         "proprietary"
     ],
    "require": {
+      "php": "^5.6.0",
       "stavarengo/php-sigep": "dev-master"
    }
 }
