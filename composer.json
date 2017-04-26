@@ -6,6 +6,7 @@
     ],
    "require": {
       "php": "^5.5.12",
+      "ext-gd": "*",
       "stavarengo/php-sigep": "dev-master"
    }
 }
