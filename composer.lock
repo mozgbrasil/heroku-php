@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "3ae608a161c02535b8d95f1b04494bef",
+    "content-hash": "020881dabcb1435d491e886d7b04a22b",
     "packages": [
         {
             "name": "stavarengo/php-sigep",
@@ -96,7 +96,8 @@
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
-        "php": "^5.5.12"
+        "php": "^5.5.12",
+        "ext-gd": "*"
     },
     "platform-dev": []
 }
