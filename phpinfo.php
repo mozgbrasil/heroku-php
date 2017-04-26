@@ -1,5 +1,5 @@
 <?php
 
-echo '1';
+echo 'COMPILE_DATE';
 
  phpinfo(); ?>
