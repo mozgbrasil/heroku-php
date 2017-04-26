@@ -1,5 +1,5 @@
 <?php
 
-echo 'x';
+echo '1';
 
  phpinfo(); ?>
