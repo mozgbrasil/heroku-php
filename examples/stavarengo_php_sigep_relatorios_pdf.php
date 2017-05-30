@@ -6,7 +6,9 @@ ini_set('display_errors', 1);
 
 //
 
-require 'vendor/autoload.php';
+$composer_autoload = dirname(dirname(__FILE__)) . "/vendor/autoload.php";
+
+require $composer_autoload;
 
 //
 
